@@ -2,3 +2,5 @@ node_modules
 cypress/videos
 cypress/screenshots
 .env
+cypress.env.json
+cypress/snapshots/
